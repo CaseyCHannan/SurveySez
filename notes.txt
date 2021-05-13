@@ -1,0 +1,11 @@
+mongodb+srv://casey:<password>@cluster0.jdhey.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+
+
+
+
+
+Client ID
+627990616240-7sr3ges370mnguojtnb3l4b7b1n60pjo.apps.googleusercontent.com
+Client secret
+YzyZM895iAi9WBoQU-Vml-Tx
